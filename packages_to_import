@@ -1,0 +1,4 @@
+pip install tkinter, os, emoji
+-------------------------------------------------------------------------
+se tiver problema com tkinter.messagebox e tkinter.filedialog use:
+pip install tkinter.messagebox, tkinter.filedialog
